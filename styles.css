@@ -4,7 +4,7 @@ body {
   background-size: cover;
 }
 
-.container{
+.container {
   display: inline-flex;
   flex-direction: column;
 }
@@ -82,47 +82,48 @@ footer {
   background-color: white;
 }
 
-.kit{
+.kit {
   margin-top: 40px;
 }
 
-.instruct{
+.instruct {
   padding-bottom: 20px;
 }
 
-.line{
+.line {
   font-weight: bolder;
 }
 
-@media(max-width: 450px){
-  body{
+@media(max-width: 450px) {
+  body {
     background-image: url("./images/drum1.jpg");
   }
-  .get{
+  .get {
     color: #DBEDF3;
   }
-  h3{
+  h3 {
     color: #DBEDF3
   }
 }
-.instruct{
+
+.instruct {
   background-color: white;
 }
 
-h2{
+h2 {
   padding-top: 10px;
   font-size: 2rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
 
-h3{
+h3 { 
   display: block;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-.btn{
+.btn {
   background-color: black;
   border-radius: 8px;
   color: #ffff;
@@ -131,19 +132,19 @@ h3{
   text-decoration: none;
 }
 
-a{
+a {
   color: #66bfbf;
   text-decoration: none;
   margin: 10px 20px;
   font-size: small;
 }
 
-.copyright{
+.copyright {
   color: #e4f9f5;
   font-size: 1rem;
   padding: 10px 0;
 }
 
-.contact{
+.contact {
   margin-bottom: 20px;
 }
